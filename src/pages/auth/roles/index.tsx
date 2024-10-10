@@ -1,5 +1,5 @@
 import { useState } from "react";
-import role from "../../../assets/images/roles.png";
+// import role from "../../../assets/images/roles.png";
 import mentor from "../../../assets/mentor.svg";
 import learner from "../../../assets/leaner.svg";
 import Button from "../../../components/atoms/button";
